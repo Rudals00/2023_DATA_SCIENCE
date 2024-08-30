@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="clustering:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/clustering_jar</output-path>
+    <root id="archive" name="assignment_3.jar">
+      <element id="module-output" name="assignment_3" />
+    </root>
+  </artifact>
+</component>
